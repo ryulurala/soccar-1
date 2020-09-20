@@ -10,6 +10,12 @@ v1.1.2(exe) [here](https://github.com/hyeonQyu/soccar/releases/tag/v1.1.2 "downl
 
 ---
 
+## Video
+
+[Game Video](https://youtu.be/bkpq1RDfrL4 "Game Video")
+
+---
+
 ## Title
 
 |                              |
@@ -36,11 +42,5 @@ v1.1.2(exe) [here](https://github.com/hyeonQyu/soccar/releases/tag/v1.1.2 "downl
 | :-------------------------------------: | :---: |
 |  ![start](./upload/start.gif?raw=true)  | Start |
 | ![motion](./upload/motion.gif?raw=true) | Game  |
-
----
-
-## Animation
-
-[Game Video](https://youtu.be/bkpq1RDfrL4 "Game Video")
 
 ---
