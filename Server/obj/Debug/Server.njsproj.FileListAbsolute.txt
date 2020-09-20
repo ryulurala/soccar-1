@@ -1,2 +1,0 @@
-C:\Users\hgKim\Documents\College\Project\soccar.io\Server\obj\Debug\Server.njsprojAssemblyReference.cache
-C:\Users\hgKim\Documents\College\Project\soccar.io\Server\bin\Microsoft.NodejsTools.WebRole.dll
