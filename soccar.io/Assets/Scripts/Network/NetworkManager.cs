@@ -15,7 +15,7 @@ public class NetworkManager : MonoBehaviour
 #if UNITY_EDITOR || UNITY_STANDALONE_WIN
     private string Ip = "http://" + Dns.GetHostEntry("3soccar.io").AddressList[0].ToString() + ":";
 #elif UNITY_WEBGL
-    private string Ip = "http://" + Dns.GetHostEntry("3soccar.io").AddressList[0].ToString() + ":";
+    private const string Ip = "http://3.34.61.82:";
 #endif
     public Socket Socket { get; private set; }
 
