@@ -13,9 +13,9 @@ public class NetworkManager : MonoBehaviour
 {
     /* 서버 접속에 관한 요소 */
 #if UNITY_EDITOR || UNITY_STANDALONE_WIN
-    private const string Ip = "http://54.225.212.76:";
+    private string Ip = "http://" + Dns.GetHostEntry("3soccar.io").AddressList[0].ToString() + ":";
 #elif UNITY_WEBGL
-    private const string Ip = "http://54.225.212.76:";
+    private string Ip = "http://" + Dns.GetHostEntry("3soccar.io").AddressList[0].ToString() + ":";
 #endif
     public Socket Socket { get; private set; }
 
