@@ -26,7 +26,7 @@ v1.1.2(exe) [here](https://github.com/hyeonQyu/soccar/releases/tag/v1.1.2 "downl
 
 ## Presentation(ppt)
 
-|                 >                  |                  >                   |
+|                                    |                                      |
 | :--------------------------------: | :----------------------------------: |
 | ![slide1](./upload/ppt/slide1.JPG) |  ![slide2](./upload/ppt/slide2.JPG)  |
 | ![slide3](./upload/ppt/slide3.JPG) |  ![slide4](./upload/ppt/slide4.JPG)  |
@@ -38,9 +38,8 @@ v1.1.2(exe) [here](https://github.com/hyeonQyu/soccar/releases/tag/v1.1.2 "downl
 
 ## Capture
 
-|                    >                    |   >   |
-| :-------------------------------------: | :---: |
-|  ![start](./upload/start.gif?raw=true)  | Start |
-| ![motion](./upload/motion.gif?raw=true) | Game  |
+|                 Start                   |                  Game                   |
+| :-------------------------------------: | :-------------------------------------: |
+|  ![start](./upload/start.gif?raw=true)  | ![motion](./upload/motion.gif?raw=true) |
 
 ---
