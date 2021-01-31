@@ -40,6 +40,6 @@ v1.1.2(exe) [here](https://github.com/hyeonQyu/soccar/releases/tag/v1.1.2 "downl
 
 |                 Start                   |                  Game                   |
 | :-------------------------------------: | :-------------------------------------: |
-|  ![start](./upload/start.gif?raw=true)  | ![motion](./upload/motion.gif?raw=true) |
+|  ![start](./upload/start.gif)  | ![motion](./upload/motion.gif) |
 
 ---
